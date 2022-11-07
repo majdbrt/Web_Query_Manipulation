@@ -9,3 +9,5 @@ The app displays this list of items to the user based on the following requireme
 * Display all the items grouped by "listId"
 * Sort the results first by "listId" then by "name" when displaying.
 * Filter out any items where "name" is blank or null.
+
+Minimum SDK API 31: Android 12.0 (S)
